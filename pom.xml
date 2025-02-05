@@ -23,8 +23,8 @@
             <url>https://repo.maven.apache.org/maven2</url>
         </repository>
         <repository>
-            <id>maven-local</id>
-            <url>file://${user.home}/.m2/repository</url>
+            <id>xyris-repo</id>
+            <url>https://repo.xyrisdev.com/repository/maven-public</url>
         </repository>
     </repositories>
 
