@@ -35,7 +35,7 @@ To run or build Ketsu, ensure you have the following installed:
 
 3. **Run the bot**:
    ```bash
-   java -jar target/Ketsu-1.0.o.jar
+   java -jar target/Ketsu-1.0.0.jar
    ```
 
 4. **Configure your bot**:
