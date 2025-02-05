@@ -25,7 +25,7 @@ To run or build Ketsu, ensure you have the following installed:
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/Darkxx14/KetsuBot.git
-   cd ketsu
+   cd KetsuBot
    ```
 
 2. **Build the project**:
